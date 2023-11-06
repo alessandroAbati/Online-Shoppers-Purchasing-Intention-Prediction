@@ -17,42 +17,7 @@ The dataset utilized is the "Online Shoppers Purchasing Intention Dataset" avail
 
 Objectives include exploring data characteristics, performing feature engineering, and implementing several AI techniques to predict purchasing intentions.
 
-## Initial Dataset Investigation
-An exploratory data analysis will be conducted to understand data characteristics and distributions. A plan will be developed for data transformation and feature engineering to make the dataset suitable for machine learning models.
-
-## AI Techniques and Observations
-We will be using models covered in the module, including:
-- Perceptron
-- Decision Trees
-- Linear Regression
-- Support Vector Machines
-- Random Forest
-- k-Nearest Neighbour
-- Naïve Bayes
-- Neural Networks
-- k-Means and GMM (for unsupervised learning)
-- Principal Component Analysis
-
-An additional technique may be considered for comparative analysis.
-
-## Data Splitting Strategy
-The dataset will be split into training, validation, and test sets to ensure that the model can be trained and evaluated effectively.
-
-## Analysis Execution
-The project will follow an iterative approach:
-1. Data preprocessing and feature engineering
-2. Baseline model establishment
-3. Model training and validation
-4. Performance analysis and error analysis
-5. Iteration and model tuning
-
-## Baseline Results and Iteration
-Baseline results will be established to gauge initial model performance. Subsequent iterations will focus on improving the model by analyzing errors and trying different model variants.
-
-## Close to Data Strategy
-Visualization techniques and summary statistics will be employed to remain close to the data. Different parameters and model variants will be experimented with to understand their effects on performance.
-
-## Installation
+## Installation and Usage
 
 To run this project, you will need to replicate the Python environment used for the analysis.
 
@@ -62,8 +27,35 @@ If you're using conda, you can create an environment with the following command:
 conda env create -f environment.yml
 ```
 
+After setting up the environment, activate it using:
+```bash
+conda activate myenv  # Replace 'myenv' with the name of your conda environment
+```
+
 For pip users, ensure you have the same packages installed by running:
 
 ```bash
 pip install -r requirements.txt
 ```
+
+To run the analysis, navigate to the notebook directory and open the Jupyter notebook (or any other tool to read .ipynb files):
+
+```bash
+jupyter notebook main.ipynb
+```
+
+## Results
+
+The results of this analysis, including accuracy of the models, feature importance, and insights into the data, will be discussed within the notebook. For a more detailed explanation of the analysis please refer to the 'report.pdf' file.
+
+## Contact
+
+For any further questions or to discuss the project, you can reach out to me at [alessandro.abati3@gmail.com].
+
+## Acknowledgements
+
+I would like to thank the providers of the "Online Shoppers Purchasing Intention Dataset" on Kaggle for making the data publicly available for educational purposes.
+
+A special thanks to the instructors and peers at City, University of London for their guidance and support throughout this project.
+
+* Note: This project is for educational purposes and should be used in accordance with Kaggle's terms of service and any applicable data privacy regulations. It is important to note that this analysis is a coursework project and may not be suitable for
