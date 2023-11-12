@@ -58,4 +58,4 @@ I would like to thank the providers of the "Online Shoppers Purchasing Intention
 
 A special thanks to the instructors and peers at City, University of London for their guidance and support throughout this project.
 
-* Note: This project is for educational purposes and should be used in accordance with Kaggle's terms of service and any applicable data privacy regulations. It is important to note that this analysis is a coursework project and may not be suitable for
+* Note: This project is for educational purposes and should be used in accordance with Kaggle's terms of service and any applicable data privacy regulations.
