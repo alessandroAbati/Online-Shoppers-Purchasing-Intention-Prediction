@@ -50,7 +50,7 @@ The results of this analysis, including accuracy of the models, feature importan
 
 ## Contact
 
-For any further questions or to discuss the project, you can reach out to me at [alessandro.abati3@gmail.com].
+For any further questions or to discuss the project, you can reach out to me at alessandro.abati3@gmail.com.
 
 ## Acknowledgements
 
