@@ -9,14 +9,6 @@ The problem domain revolves around e-commerce and understanding customer behavio
 ## Dataset
 The dataset utilized is the "Online Shoppers Purchasing Intention Dataset" available on [Kaggle](https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset). It comprises various features such as session information, bounce rates, exit rates, and page values that potentially influence purchasing decisions.
 
-## Questions and Analysis Tasks
-- What features most significantly impact online shopping purchasing intentions?
-- Can we predict a user's purchasing intention with reasonable accuracy?
-- How do different AI models compare in predicting online shopper behavior?
-- Which model most effectively captures the nuances of online shopping data?
-
-Objectives include exploring data characteristics, performing feature engineering, and implementing several AI techniques to predict purchasing intentions.
-
 ## Installation and Usage
 
 To run this project, you will need to replicate the Python environment used for the analysis.
