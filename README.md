@@ -1,7 +1,7 @@
 # Online Shoppers Purchasing Intention Prediction
 
 ## Introduction
-This project is part of the coursework for the module "Introduction to AI" for the MSc in Artificial Intelligence at City, University of London. The objective is to apply various artificial intelligence techniques to predict the purchasing intention of online shoppers using a dataset from Kaggle.
+The objective is to apply various artificial intelligence techniques to predict the purchasing intention of online shoppers using a dataset from Kaggle. The notebook is also available on Kaggle (https://www.kaggle.com/code/alessandroabati/online-shoppers-purchasing-intention-prediction/notebook)
 
 ## Problem Domain
 The problem domain revolves around e-commerce and understanding customer behaviors online. Specifically, the aim is to predict whether a customer will make a purchase based on their browsing behavior and other attributes.
@@ -51,3 +51,5 @@ I would like to thank the providers of the "Online Shoppers Purchasing Intention
 A special thanks to the instructors and peers at City, University of London for their guidance and support throughout this project.
 
 * Note: This project is for educational purposes and should be used in accordance with Kaggle's terms of service and any applicable data privacy regulations.
+
+* Note: This project is part of the coursework for the module "Introduction to AI" for the MSc in Artificial Intelligence at City, University of London.
